@@ -561,7 +561,7 @@ xclip
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3 {
-    color: #000000;
+    color: #ffffff;
 }
 
 
@@ -2048,9 +2048,8 @@ select.mobile-device {
 .contact_form .form-control {
     /* background-color: #333333; */
     margin-bottom: 30px;
-    border: 1px solid #ebebeb;
+    border: 1px solid #d1cfcf;
     box-sizing: border-box;
-    color: #bcbcbc;
     font-size: 16px;
     outline: 0 none;
     padding: 10px 25px;
@@ -2061,6 +2060,10 @@ select.mobile-device {
 	border-radius: 0px;
     border: solid ;
 }
+.txt-color{
+    color: black;
+    
+}
 
 .contact_form textarea {
     color: #bcbcbc;
@@ -2069,16 +2072,16 @@ select.mobile-device {
 }
 
 .contact_form .form-control::-webkit-input-placeholder {
-    color: #bcbcbc;
+    
 }
 
 .contact_form .form-control::-moz-placeholder {
     opacity: 1;
-    color: #bcbcbc;
+    
 }
 
 .contact_form .form-control::-ms-input-placeholder {
-    color: #bcbcbc;
+
 }
 
 #contact {
@@ -2131,7 +2134,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height: important;
 }
 
 .footer {
