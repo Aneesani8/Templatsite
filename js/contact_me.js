@@ -154,6 +154,9 @@ function namevalidation() {
     $('#namepara').html("")
     return true;
   }
+  
+
+
 
   else {
     $('#namepara').html("Use only character")
